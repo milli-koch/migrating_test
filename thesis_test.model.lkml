@@ -2,7 +2,7 @@ connection: "mak_test"
 
 include: "*.view"
 
-include: "*.dashboard"
+# include: "*.dashboard"
 
 datagroup: thesis_test_default_datagroup {
   max_cache_age: "24 hours"
